@@ -1,5 +1,5 @@
 # Salary-Data-Country-Wise
-Basic Data Aanlysis with pandas
+
 
 Our rigorous country-wise salary data analysis offers a detailed examination of income trends and disparities on a global scale. By dissecting compensation figures across various nations, we provide comprehensive insights into the earning landscape. This analytical endeavour reveals vital metrics, including:
 
